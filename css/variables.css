@@ -1,0 +1,20 @@
+:root{
+
+    /* ======== Colors ========= */
+
+    --white : #fff;
+    --bkack : #000;
+    --dark-gray : #454545;
+    --red : #E74c3c;
+
+    /* ======== Fonts ========= */
+
+    --heading-font : 'open sans'; 
+    --paragraph-font : 'open sans'; 
+
+    /* ======== Font Sizes ========= */
+
+    --heading-h1: 38px;
+    --paragraph-font-size : 16px;
+    
+}

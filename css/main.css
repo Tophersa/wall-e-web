@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* ========= Global container ================ */
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* ====== Global hearding styles ============= */
+
+h2{
+    font-family: var(--heading-font);
+    font-size: var(--heading-h1);
+    background-color: var(--red);
+    color: var(--white);
+    text-align: center;
+    font-weight: 600;
+
+}
