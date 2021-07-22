@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;   
+}
+h2{
+    text-align: center;
+    
+     
+}
+h3,h4{
+    font-size: x-large;
+    border-bottom: solid;
+}
