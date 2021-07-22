@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+}
+
+    h1{
+        color: black;
+        
+    }
+    h2{
+        color: black;
+        border-bottom: solid;
+        padding-left: 0%;
+        position: left;
+    }
+    p1{
+        color: black;
+        padding-left: 0%;
+        position: left;
+    }
+    h3{
+        color: black;
+        border-bottom: solid;
+        padding-right: 0%;
+        position: right;
+    }
+    p2{
+        color: black;
+        padding-right: 0%;
+        position: right;
+    }
+    h4{
+        font-size: xx-large;
+    }
